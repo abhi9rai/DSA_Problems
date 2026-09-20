@@ -1,0 +1,15 @@
+class Solution {
+    public int reverseDegree(String s) {
+        int sum = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            // 'a' = 26, 'b' = 25, ..., 'z' = 1
+            int reverseValue = 'z' - s.charAt(i) + 1;
+
+            // String position is i + 1
+            sum += reverseValue * (i + 1);
+        }
+
+        return sum;
+    }
+}
