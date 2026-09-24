@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi9rai/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abhi9rai/DSA_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/abhi9rai/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/abhi9rai/DSA_Problems/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/abhi9rai/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/abhi9rai/DSA_Problems/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhi9rai/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## String
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/abhi9rai/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhi9rai/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/abhi9rai/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhi9rai/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhi9rai/DSA_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/abhi9rai/DSA_Problems/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
