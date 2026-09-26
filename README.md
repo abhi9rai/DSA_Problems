@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhi9rai/DSA_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhi9rai/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi9rai/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/abhi9rai/DSA_Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhi9rai/DSA_Problems/tree/master/0283-move-zeroes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhi9rai/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/abhi9rai/DSA_Problems/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhi9rai/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/abhi9rai/DSA_Problems/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhi9rai/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/abhi9rai/DSA_Problems/tree/master/0904-fruit-into-baskets) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhi9rai/DSA_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhi9rai/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/abhi9rai/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/abhi9rai/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
