@@ -253,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/abhi9rai/DSA_Problems/tree/master/0986-interval-list-intersections) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/abhi9rai/DSA_Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
