@@ -5,17 +5,19 @@ class Solution {
         int n = nums.length;
         int[] res = new int[n];
         Stack<Integer> st = new Stack<>();
-        for (int i = 2 * n - 1; i >= 0; i--) {
-            int index = i % n;
-            while (!st.empty() && st.peek() <= nums[index]) {
+        for(int i=n-2; i >= 0; i--){
+            st.push(nums[i]);
+        }
+        for (int i = n - 1; i >= 0; i--) {
+            while (!st.empty() && st.peek() <= nums[i]) {
                 st.pop();
             }
             if (st.empty()) {
-                res[index] = -1;
+                res[i] = -1;
             } else {
-                res[index] = st.peek();
+                res[i] = st.peek();
             }
-            st.push(nums[index]);
+            st.push(nums[i]);
         }
         return res;
     }
