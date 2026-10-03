@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/abhi9rai/DSA_Problems/tree/master/0410-split-array-largest-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhi9rai/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abhi9rai/DSA_Problems/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/abhi9rai/DSA_Problems/tree/master/0412-fizz-buzz) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/abhi9rai/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sweep Line
 |  |
