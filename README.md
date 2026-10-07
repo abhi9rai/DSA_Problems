@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abhi9rai/DSA_Problems/tree/master/0076-minimum-window-substring) |
+| [0301-remove-invalid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/abhi9rai/DSA_Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -313,10 +314,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/abhi9rai/DSA_Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/abhi9rai/DSA_Problems/tree/master/1189-maximum-number-of-balloons) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
