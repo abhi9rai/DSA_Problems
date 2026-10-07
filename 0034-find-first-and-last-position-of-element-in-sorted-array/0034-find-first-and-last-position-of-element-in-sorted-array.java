@@ -1,33 +1,45 @@
 class Solution {
-    public int[] searchRange(int[] nums, int target) {
-     int[] ans ={-1,-1};
-    // check for the first occurance of the target first
-    int start=search(nums,target,true); 
-    int end=search(nums,target,false);
-    ans[0]=start;
-    ans[1]=end;
-    return ans; 
-    }
-    int search(int[] nums, int target, boolean findStartIndex){
-        int ans=-1;
-        int start=0;
-        int end =nums.length-1;
-        while(start<=end){
-            int mid = start+(end-start)/2;
-            if(target<nums[mid]){
-                end=mid-1;
-            }else if (target>nums[mid]){
-                start=mid+1;
-            }else{
-                // potential answer
-                ans=mid;
-                if(findStartIndex){
-                    end=mid-1;
-                }else{
-                    start=mid+1;
-                }
+    public int firstOccurrence(int[] a, int x) {
+        int n = a.length;
+        int low = 0, high = n - 1;
+        int res = -1;
+        while (low <= high) {
+            int guess = (high + low) / 2;
+            if (a[guess] < x) {
+                low = guess + 1;
+            }
+            else if (a[guess] > x) {
+                high = guess - 1;
+            }
+            else {
+                res = guess;
+                high = guess - 1;
             }
         }
-        return ans;
+        return res;
+    }
+    public int secondOccurrence(int[] a, int x) {
+        int n = a.length;
+        int low = 0, high = n - 1;
+        int res = -1;
+        while (low <= high) {
+            int guess = (high + low) / 2;
+            if (a[guess] < x) {
+                low = guess + 1;
+            }
+            else if (a[guess] > x) {
+                high = guess - 1;
+            }
+            else {
+                res = guess;
+                low = guess + 1;
+            }
+        }
+        return res;
+    }
+    public int[] searchRange(int[] nums, int target) {
+        int first = firstOccurrence(nums, target);
+        int second = secondOccurrence(nums, target);
+        return new int[]{first, second};
     }
 }
