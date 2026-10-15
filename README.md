@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/abhi9rai/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhi9rai/DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/abhi9rai/DSA_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhi9rai/DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhi9rai/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhi9rai/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhi9rai/DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhi9rai/DSA_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/abhi9rai/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhi9rai/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/abhi9rai/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhi9rai/DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhi9rai/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhi9rai/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/abhi9rai/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhi9rai/DSA_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/abhi9rai/DSA_Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhi9rai/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/abhi9rai/DSA_Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/abhi9rai/DSA_Problems/tree/master/1189-maximum-number-of-balloons) |
 ## Breadth-First Search
 |  |
@@ -421,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhi9rai/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhi9rai/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhi9rai/DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
