@@ -5,7 +5,7 @@ class Solution {
         return ans;
     }
     private void solve (String curr, int open, int closed, int total, List<String> ans) {
-        if(curr.length() == 2*total) {
+        if(open==total && closed==total) {
             ans.add(curr);
             return;
         }
@@ -13,7 +13,7 @@ class Solution {
             solve(curr+ "(", open+1, closed , total, ans);
         }
         if(closed<open) {
-            solve(curr+")", open, closed+1, total, ans);
+            solve(curr+ ")", open, closed+1, total, ans);
         }
     }
 }
