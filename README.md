@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/abhi9rai/DSA_Problems/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/abhi9rai/DSA_Problems/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhi9rai/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhi9rai/DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhi9rai/DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhi9rai/DSA_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhi9rai/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhi9rai/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhi9rai/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhi9rai/DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/abhi9rai/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhi9rai/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhi9rai/DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhi9rai/DSA_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhi9rai/DSA_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
