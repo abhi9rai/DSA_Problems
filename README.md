@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/abhi9rai/DSA_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhi9rai/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2235-add-two-integers](https://github.com/abhi9rai/DSA_Problems/tree/master/2235-add-two-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhi9rai/DSA_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/abhi9rai/DSA_Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Array
