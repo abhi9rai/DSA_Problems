@@ -15,16 +15,18 @@
  */
 
 class Solution {
-    void fun(TreeNode node, List<Integer> ans) {
+    List<Integer> ans = new ArrayList<>();
+    void fun(TreeNode node) {
         if(node == null)
             return;
-        fun(node.left, ans);
+        fun(node.left);
         ans.add(node.val);
-        fun(node.right, ans);
+        fun(node.right);
+        return;
     }
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        fun(root, ans);
+        fun(root);
         return ans;
     }
 }
+
