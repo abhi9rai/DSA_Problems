@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi9rai/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0572-subtree-of-another-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/abhi9rai/DSA_Problems/tree/master/0951-flip-equivalent-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi9rai/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0572-subtree-of-another-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/abhi9rai/DSA_Problems/tree/master/0951-flip-equivalent-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi9rai/DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0572-subtree-of-another-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/abhi9rai/DSA_Problems/tree/master/0951-flip-equivalent-binary-trees) |
 ## String Matching
 |  |
 | ------- |
