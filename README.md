@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/abhi9rai/DSA_Problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/abhi9rai/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/abhi9rai/DSA_Problems/tree/master/0509-fibonacci-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abhi9rai/DSA_Problems/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/abhi9rai/DSA_Problems/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/abhi9rai/DSA_Problems/tree/master/0383-ransom-note) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhi9rai/DSA_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/abhi9rai/DSA_Problems/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/abhi9rai/DSA_Problems/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Counting
 |  |
