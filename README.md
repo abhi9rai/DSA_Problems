@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhi9rai/DSA_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0344-reverse-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/abhi9rai/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/abhi9rai/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhi9rai/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/abhi9rai/DSA_Problems/tree/master/0621-task-scheduler) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/abhi9rai/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhi9rai/DSA_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi9rai/DSA_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Ternary Search
 |  |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/abhi9rai/DSA_Problems/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi9rai/DSA_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
@@ -584,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/abhi9rai/DSA_Problems/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi9rai/DSA_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -604,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/abhi9rai/DSA_Problems/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi9rai/DSA_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
