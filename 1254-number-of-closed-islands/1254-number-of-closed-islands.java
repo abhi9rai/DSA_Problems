@@ -2,7 +2,7 @@ class Solution {
     public int closedIsland(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        for (int i = 0; i < m-1; i++) {
+        for (int i = 0; i < m; i++) {
             dfs(grid, i, 0);
             dfs(grid, i, n - 1);
         }
