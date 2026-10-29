@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/abhi9rai/DSA_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/abhi9rai/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/abhi9rai/DSA_Problems/tree/master/0994-rotting-oranges) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhi9rai/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/abhi9rai/DSA_Problems/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/abhi9rai/DSA_Problems/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/abhi9rai/DSA_Problems/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhi9rai/DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/abhi9rai/DSA_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/abhi9rai/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/abhi9rai/DSA_Problems/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi9rai/DSA_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/abhi9rai/DSA_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/abhi9rai/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -729,4 +733,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/abhi9rai/DSA_Problems/tree/master/0785-is-graph-bipartite) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/abhi9rai/DSA_Problems/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/abhi9rai/DSA_Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
