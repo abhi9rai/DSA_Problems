@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/abhi9rai/DSA_Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/abhi9rai/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhi9rai/DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/abhi9rai/DSA_Problems/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhi9rai/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abhi9rai/DSA_Problems/tree/master/0904-fruit-into-baskets) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhi9rai/DSA_Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhi9rai/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0778-swim-in-rising-water](https://github.com/abhi9rai/DSA_Problems/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/abhi9rai/DSA_Problems/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/abhi9rai/DSA_Problems/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/abhi9rai/DSA_Problems/tree/master/1672-richest-customer-wealth) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhi9rai/DSA_Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/abhi9rai/DSA_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhi9rai/DSA_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/abhi9rai/DSA_Problems/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhi9rai/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhi9rai/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/abhi9rai/DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/abhi9rai/DSA_Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/abhi9rai/DSA_Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/abhi9rai/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/abhi9rai/DSA_Problems/tree/master/0994-rotting-oranges) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/abhi9rai/DSA_Problems/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/abhi9rai/DSA_Problems/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/abhi9rai/DSA_Problems/tree/master/0778-swim-in-rising-water) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhi9rai/DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
@@ -617,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/abhi9rai/DSA_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhi9rai/DSA_Problems/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/abhi9rai/DSA_Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/abhi9rai/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/abhi9rai/DSA_Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -694,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/abhi9rai/DSA_Problems/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/abhi9rai/DSA_Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/abhi9rai/DSA_Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/abhi9rai/DSA_Problems/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/abhi9rai/DSA_Problems/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhi9rai/DSA_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -746,4 +753,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/abhi9rai/DSA_Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/abhi9rai/DSA_Problems/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/abhi9rai/DSA_Problems/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
