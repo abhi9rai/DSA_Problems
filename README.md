@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/abhi9rai/DSA_Problems/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/abhi9rai/DSA_Problems/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhi9rai/DSA_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/abhi9rai/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/abhi9rai/DSA_Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhi9rai/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhi9rai/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/abhi9rai/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhi9rai/DSA_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/abhi9rai/DSA_Problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0525-contiguous-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhi9rai/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhi9rai/DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhi9rai/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/abhi9rai/DSA_Problems/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/abhi9rai/DSA_Problems/tree/master/0621-task-scheduler) |
