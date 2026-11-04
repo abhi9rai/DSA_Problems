@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhi9rai/DSA_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/abhi9rai/DSA_Problems/tree/master/2235-add-two-integers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhi9rai/DSA_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/abhi9rai/DSA_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhi9rai/DSA_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/abhi9rai/DSA_Problems/tree/master/3886-sum-of-sortable-integers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhi9rai/DSA_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi9rai/DSA_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhi9rai/DSA_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhi9rai/DSA_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhi9rai/DSA_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/abhi9rai/DSA_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhi9rai/DSA_Problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhi9rai/DSA_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/abhi9rai/DSA_Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/abhi9rai/DSA_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/abhi9rai/DSA_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/abhi9rai/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhi9rai/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhi9rai/DSA_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhi9rai/DSA_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhi9rai/DSA_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/abhi9rai/DSA_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhi9rai/DSA_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/abhi9rai/DSA_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
@@ -551,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/abhi9rai/DSA_Problems/tree/master/0778-swim-in-rising-water) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhi9rai/DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhi9rai/DSA_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
 |  |
 | ------- |
