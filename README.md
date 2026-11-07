@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhi9rai/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/abhi9rai/DSA_Problems/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhi9rai/DSA_Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1882-process-tasks-using-servers](https://github.com/abhi9rai/DSA_Problems/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/abhi9rai/DSA_Problems/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhi9rai/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhi9rai/DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/abhi9rai/DSA_Problems/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/abhi9rai/DSA_Problems/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/abhi9rai/DSA_Problems/tree/master/0778-swim-in-rising-water) |
+| [1882-process-tasks-using-servers](https://github.com/abhi9rai/DSA_Problems/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhi9rai/DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhi9rai/DSA_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Enumeration
